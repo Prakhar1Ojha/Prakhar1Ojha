@@ -214,7 +214,7 @@ Open Source Contrib.  ░░░░░░░░░░░░░░░░░░░�
 
 <i>Open to collaborations, internships, and interesting problems.</i>
 <br/>
-Reach out at <b>YOUR_EMAIL</b>
+Reach out at <b>pojh2737@gmail.com</b>
 
 <br/><br/>
 
@@ -223,7 +223,7 @@ Reach out at <b>YOUR_EMAIL</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-06-28 15:58 UTC
+ 
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
