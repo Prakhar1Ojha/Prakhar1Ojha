@@ -148,7 +148,7 @@ Titanyx Fitness Gym — a multi-section HTML5 website demonstrating semantic mar
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prakhar1Ojha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
 
 </div>
 
