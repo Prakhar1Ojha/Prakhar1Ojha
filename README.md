@@ -161,13 +161,16 @@ Titanyx Fitness Gym — a multi-section HTML5 website demonstrating semantic mar
 
 <br/>
 
-## ⟁ Coding Profiles
+ ## ⟁ Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/Prakhar1Ojha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
- <a href="https://leetcode.com/u/Prakhar1Ojha">
+<img src="https://leetcard.jacoblin.cool/Prakhar1Ojha?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" />
 
 <br/>
 
