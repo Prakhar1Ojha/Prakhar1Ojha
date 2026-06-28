@@ -89,7 +89,6 @@ const prakharOjha = {
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
 
-> Replace/extend badges freely — full reference in `docs/CUSTOMIZATION.md`.
 
 <br/>
 
