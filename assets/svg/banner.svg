@@ -1,0 +1,33 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B8BFF"/>
+      <stop offset="100%" stop-color="#56CCF2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+
+  <!-- subtle grid -->
+  <g stroke="#21262D" stroke-width="1">
+    <line x1="0" y1="65" x2="1200" y2="65"/>
+    <line x1="0" y1="130" x2="1200" y2="130"/>
+    <line x1="0" y1="195" x2="1200" y2="195"/>
+  </g>
+
+  <!-- glow orb -->
+  <circle cx="1040" cy="80" r="120" fill="url(#accent)" opacity="0.12"/>
+
+  <text x="60" y="120" font-family="JetBrains Mono, monospace" font-size="42" fill="#F0F6FC" font-weight="600">
+    Prakhar Ojha
+  </text>
+  <text x="60" y="160" font-family="JetBrains Mono, monospace" font-size="20" fill="#8B949E">
+    Software Engineer · Builder · Lifelong Learner
+  </text>
+
+  <rect x="60" y="185" width="90" height="4" rx="2" fill="url(#accent)"/>
+</svg>
