@@ -177,14 +177,14 @@ Titanyx Fitness Gym — a multi-section HTML5 website demonstrating semantic mar
 ## ⟁ Timeline
 
 ```
-2024 — Started B.Tech CSE
-2025 — Learned HTML/CSS/JS hands-on through real projects
+2026 — Started B.Tech CSE
+2026 — Learned HTML/CSS/JS hands-on through real projects
 2026 — Java + DSA focus, open-source repo cleanup, exploring Three.js/3D web
 ```
 
 | Year | Education / Milestone |
 |---|---|
-| 2024 – 2028 | B.Tech, Computer Science Engineering |
+| 2026 – 2030 | B.Tech, Computer Science Engineering |
 | 2026 | Restructured LEETCODE-Solutions repo with CI/CD via GitHub Actions |
 
 <br/>
