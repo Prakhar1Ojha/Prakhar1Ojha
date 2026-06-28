@@ -102,17 +102,17 @@ const prakharOjha = {
 <td width="50%">
 
 ### [LEETCODE-Solutions](https://github.com/Prakhar1Ojha/LEETCODE-Solutions)
-LeetCode solutions across multiple languages, focused on clean code and optimized approaches — with CI via GitHub Actions.
+LeetCode solutions in multiple programming languages, featuring clean code, optimized approaches, and algorithmic problem-solving techniques.
 
-`Java` `DSA` `CI/CD`
+`Java` `★ 1`
 
 </td>
 <td width="50%">
 
 ### [prakhar-portfolio](https://github.com/Prakhar1Ojha/prakhar-portfolio)
-A high-performance personal portfolio showcasing projects, skills, and achievements.
+A high-performance portfolio showcasing my projects, technical skills, achievements, and passion for software development, AI, and modern web technologies.
 
-`TypeScript` `React` `Portfolio`
+`TypeScript`
 
 </td>
 </tr>
@@ -120,17 +120,9 @@ A high-performance personal portfolio showcasing projects, skills, and achieveme
 <td width="50%">
 
 ### [titanyx-fitness-html](https://github.com/Prakhar1Ojha/titanyx-fitness-html)
-A multi-section gym website built with semantic HTML5, accessible forms, and structured data tables.
+Titanyx Fitness Gym — a multi-section HTML5 website demonstrating semantic markup, accessible forms, and structured data tables.
 
-`HTML` `Accessibility` `Semantic+Markup`
-
-</td>
-<td width="50%">
-
-### YOUR_NEXT_PROJECT
-Add your next build here as you ship it.
-
-`Tech` `Stack` `Tags`
+`HTML`
 
 </td>
 </tr>
@@ -232,6 +224,8 @@ Reach out at <b>YOUR_EMAIL</b>
 
 <sub>Thanks for stopping by ✦</sub>
 <br/>
-<sub><!-- LAST_SYNCED:START -->Last auto-synced: pending first run<!-- LAST_SYNCED:END --></sub>
+<sub><!-- LAST_SYNCED:START -->
+Last auto-synced: 2026-06-28 15:10 UTC
+<!-- LAST_SYNCED:END --></sub>
 
 </div>
