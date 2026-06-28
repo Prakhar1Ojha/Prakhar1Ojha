@@ -56,9 +56,8 @@ const prakharOjha = {
 ## ⟁ Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,html,css,react,nodejs,express,three,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,nodejs,mongodb,git,github,vscode&theme=dark" />
 </a>
-
 <br/><br/>
 
 **Languages**
