@@ -99,10 +99,10 @@ const prakharOjha = {
 <tr>
 <td width="50%">
 
-### [Python-Learning-Journey](https://github.com/Prakhar1Ojha/Python-Learning-Journey)
-A structured, beginner-to-advanced Python learning repository — notes, exercises, and real projects, organized topic-by-topic with its own roadmap and progress tracker.
+### [titanyx-fitness-html](https://github.com/Prakhar1Ojha/titanyx-fitness-html)
+Titanyx Fitness Gym — a multi-section HTML5+CSS framework+JavaScript website demonstrating semantic markup, accessible forms, and structured data tables.
 
-`Python`
+`HTML` `★ 1`
 
 </td>
 <td width="50%">
@@ -117,18 +117,18 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 <tr>
 <td width="50%">
 
-### [prakhar-portfolio](https://github.com/Prakhar1Ojha/prakhar-portfolio)
-A high-performance portfolio showcasing my projects, technical skills, achievements, and passion for software development, AI, and modern web technologies.
+### [Python-Learning-Journey](https://github.com/Prakhar1Ojha/Python-Learning-Journey)
+🚀 Documenting my Python learning journey with notes, exercises, projects, mini-projects, and real-world coding practice. 🐍
 
-`TypeScript`
+`Python`
 
 </td>
 <td width="50%">
 
-### [titanyx-fitness-html](https://github.com/Prakhar1Ojha/titanyx-fitness-html)
-Titanyx Fitness Gym — a multi-section HTML5 website demonstrating semantic markup, accessible forms, and structured data tables.
+### [prakhar-portfolio](https://github.com/Prakhar1Ojha/prakhar-portfolio)
+A high-performance portfolio showcasing my projects, technical skills, achievements, and passion for software development, AI, and modern web technologies.
 
-`HTML`
+`TypeScript`
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-06-28 16:00 UTC
+Last auto-synced: 2026-06-29 07:37 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
