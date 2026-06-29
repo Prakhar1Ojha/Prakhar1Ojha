@@ -92,11 +92,19 @@ const prakharOjha = {
 
 <br/>
 
-## ⟁ Featured Projects
+ ## ⟁ Featured Projects
 
 <!-- PROJECTS:START -->
 <table>
 <tr>
+<td width="50%">
+
+### [Python-Learning-Journey](https://github.com/Prakhar1Ojha/Python-Learning-Journey)
+A structured, beginner-to-advanced Python learning repository — notes, exercises, and real projects, organized topic-by-topic with its own roadmap and progress tracker.
+
+`Python`
+
+</td>
 <td width="50%">
 
 ### [LEETCODE-Solutions](https://github.com/Prakhar1Ojha/LEETCODE-Solutions)
@@ -105,6 +113,8 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 `Java` `★ 1`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [prakhar-portfolio](https://github.com/Prakhar1Ojha/prakhar-portfolio)
@@ -113,8 +123,6 @@ A high-performance portfolio showcasing my projects, technical skills, achieveme
 `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [titanyx-fitness-html](https://github.com/Prakhar1Ojha/titanyx-fitness-html)
@@ -127,6 +135,7 @@ Titanyx Fitness Gym — a multi-section HTML5 website demonstrating semantic mar
 </table>
 <!-- PROJECTS:END -->
 
+<sub>This table auto-regenerates from your most-recently-updated public repos via a scheduled GitHub Action — see <code>docs/AUTOMATION.md</code>.</sub>
 <sub>This table auto-regenerates from your most-recently-updated public repos via a scheduled GitHub Action — see <code>docs/AUTOMATION.md</code>.</sub>
 
 <br/>
