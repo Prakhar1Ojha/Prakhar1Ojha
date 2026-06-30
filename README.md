@@ -102,7 +102,7 @@ const prakharOjha = {
 ### [titanyx-fitness-html](https://github.com/Prakhar1Ojha/titanyx-fitness-html)
 Titanyx Fitness Gym — a multi-section HTML5+CSS framework+JavaScript website demonstrating semantic markup, accessible forms, and structured data tables.
 
-`HTML` `★ 1`
+`HTML` `★ 2`
 
 </td>
 <td width="50%">
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-06-29 10:59 UTC
+Last auto-synced: 2026-06-30 09:35 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
