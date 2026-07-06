@@ -107,28 +107,28 @@ Titanyx Fitness Gym — a multi-section HTML5+CSS framework+JavaScript website d
 </td>
 <td width="50%">
 
-### [LEETCODE-Solutions](https://github.com/Prakhar1Ojha/LEETCODE-Solutions)
-LeetCode solutions in multiple programming languages, featuring clean code, optimized approaches, and algorithmic problem-solving techniques.
+### [HackFinder](https://github.com/Prakhar1Ojha/HackFinder)
+🚀 HackFinder is a unified hackathon discovery platform built with Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS, and Clerk. Discover hackathons from multiple sources, track deadlines, receive personalized recommendations, bookmark events, and connect with teammates—all in one place.
 
-`Java` `★ 1`
+`TypeScript` `★ 1`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Python-Learning-Journey](https://github.com/Prakhar1Ojha/Python-Learning-Journey)
-🚀 Documenting my Python learning journey with notes, exercises, projects, mini-projects, and real-world coding practice. 🐍
+### [LEETCODE-Solutions](https://github.com/Prakhar1Ojha/LEETCODE-Solutions)
+LeetCode solutions in multiple programming languages, featuring clean code, optimized approaches, and algorithmic problem-solving techniques.
 
-`Python`
+`Java` `★ 1`
 
 </td>
 <td width="50%">
 
-### [prakhar-portfolio](https://github.com/Prakhar1Ojha/prakhar-portfolio)
-A high-performance portfolio showcasing my projects, technical skills, achievements, and passion for software development, AI, and modern web technologies.
+### [Python-Learning-Journey](https://github.com/Prakhar1Ojha/Python-Learning-Journey)
+🚀 Documenting my Python learning journey with notes, exercises, projects, mini-projects, and real-world coding practice. 🐍
 
-`TypeScript`
+`Python`
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-07-05 08:52 UTC
+Last auto-synced: 2026-07-06 10:21 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
