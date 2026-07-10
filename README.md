@@ -125,10 +125,10 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 </td>
 <td width="50%">
 
-### [Python-Learning-Journey](https://github.com/Prakhar1Ojha/Python-Learning-Journey)
-🚀 Documenting my Python learning journey with notes, exercises, projects, mini-projects, and real-world coding practice. 🐍
+### [Prakhar-Portfolio](https://github.com/Prakhar1Ojha/Prakhar-Portfolio)
+No description provided yet.
 
-`Python`
+`Project`
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-07-09 09:38 UTC
+Last auto-synced: 2026-07-10 09:34 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
