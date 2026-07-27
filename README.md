@@ -125,10 +125,10 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 </td>
 <td width="50%">
 
-### [Prakhar-Portfolio](https://github.com/Prakhar1Ojha/Prakhar-Portfolio)
+### [CPP-Mastery](https://github.com/Prakhar1Ojha/CPP-Mastery)
 No description provided yet.
 
-`Project`
+`C++`
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-07-26 08:25 UTC
+Last auto-synced: 2026-07-27 09:51 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
