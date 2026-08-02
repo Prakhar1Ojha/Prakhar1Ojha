@@ -125,10 +125,10 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 </td>
 <td width="50%">
 
-### [CPP-Mastery](https://github.com/Prakhar1Ojha/CPP-Mastery)
+### [Whatsapp-notification-router](https://github.com/Prakhar1Ojha/Whatsapp-notification-router)
 No description provided yet.
 
-`C++`
+`Python`
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-08-01 08:20 UTC
+Last auto-synced: 2026-08-02 08:23 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
