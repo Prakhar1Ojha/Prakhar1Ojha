@@ -13,7 +13,7 @@
 <!-- ============ SOCIAL BADGES ============ -->
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pojha2737@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-2D2D2D?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
