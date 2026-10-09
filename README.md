@@ -125,10 +125,10 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 </td>
 <td width="50%">
 
-### [Whatsapp-notification-router](https://github.com/Prakhar1Ojha/Whatsapp-notification-router)
+### [Wanderly](https://github.com/Prakhar1Ojha/Wanderly)
 No description provided yet.
 
-`Python`
+`HTML`
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-10-08 12:53 UTC
+Last auto-synced: 2026-10-09 12:39 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
