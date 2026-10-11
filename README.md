@@ -125,8 +125,8 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 </td>
 <td width="50%">
 
-### [Wanderly](https://github.com/Prakhar1Ojha/Wanderly)
-No description provided yet.
+### [My-DevProfile](https://github.com/Prakhar1Ojha/My-DevProfile)
+A responsive personal portfolio website showcasing my skills, projects, and contact information.
 
 `HTML`
 
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-10-10 11:58 UTC
+Last auto-synced: 2026-10-11 12:11 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
