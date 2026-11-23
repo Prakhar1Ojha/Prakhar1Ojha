@@ -125,8 +125,8 @@ LeetCode solutions in multiple programming languages, featuring clean code, opti
 </td>
 <td width="50%">
 
-### [youtube-clone](https://github.com/Prakhar1Ojha/youtube-clone)
-A beginner-friendly YouTube UI clone built using HTML5 and CSS3, featuring Flexbox, CSS Grid, responsive design, navbar, sidebar, search bar, video cards, and category navigation. No JavaScript or frameworks used.
+### [BlogSpace-Bootstrap](https://github.com/Prakhar1Ojha/BlogSpace-Bootstrap)
+Created using bootstrap.
 
 `HTML`
 
@@ -232,7 +232,7 @@ Reach out at <b>pojh2737@gmail.com</b>
 <sub>Thanks for stopping by ✦</sub>
 <br/>
 <sub><!-- LAST_SYNCED:START -->
-Last auto-synced: 2026-11-22 14:07 UTC
+Last auto-synced: 2026-11-23 17:29 UTC
 <!-- LAST_SYNCED:END --></sub>
 
 </div>
